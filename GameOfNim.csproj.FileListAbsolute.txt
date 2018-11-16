@@ -1,0 +1,15 @@
+C:\Users\gavinr\Desktop\3309\GameOfNim\GameOfNim\obj\Debug\GameOfNim.csprojAssemblyReference.cache
+C:\Users\gavinr\Desktop\3309\GameOfNim\GameOfNim\obj\Debug\GameOfNim.frmGameOfNimControllerForm.resources
+C:\Users\gavinr\Desktop\3309\GameOfNim\GameOfNim\obj\Debug\GameOfNim.Properties.Resources.resources
+C:\Users\gavinr\Desktop\3309\GameOfNim\GameOfNim\obj\Debug\GameOfNim.csproj.GenerateResource.cache
+C:\Users\gavinr\Desktop\3309\GameOfNim\GameOfNim\obj\Debug\GameOfNim.csproj.CoreCompileInputs.cache
+C:\Users\gavinr\Desktop\GameOfNim\GameOfNim\obj\Debug\GameOfNim.csprojAssemblyReference.cache
+C:\Users\gavinr\Desktop\GameOfNim\GameOfNim\obj\Debug\GameOfNim.frmGameOfNimControllerForm.resources
+C:\Users\gavinr\Desktop\GameOfNim\GameOfNim\obj\Debug\GameOfNim.Properties.Resources.resources
+C:\Users\gavinr\Desktop\GameOfNim\GameOfNim\obj\Debug\GameOfNim.csproj.GenerateResource.cache
+C:\Users\gavinr\Desktop\GameOfNim\GameOfNim\obj\Debug\GameOfNim.csproj.CoreCompileInputs.cache
+C:\Users\gavinr\Desktop\GameOfNim\GameOfNim\bin\Debug\GameOfNim.exe.config
+C:\Users\gavinr\Desktop\GameOfNim\GameOfNim\bin\Debug\GameOfNim.exe
+C:\Users\gavinr\Desktop\GameOfNim\GameOfNim\bin\Debug\GameOfNim.pdb
+C:\Users\gavinr\Desktop\GameOfNim\GameOfNim\obj\Debug\GameOfNim.exe
+C:\Users\gavinr\Desktop\GameOfNim\GameOfNim\obj\Debug\GameOfNim.pdb
